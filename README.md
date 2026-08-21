@@ -53,4 +53,4 @@ I am interested in opportunities related to:
 
 ## 📫 Connect With Me
 
-[LinkedIn]([PUT-YOUR-LINKEDIN-URL-HERE](https://www.linkedin.com/in/yoswadee-suanlert/))
+[LinkedIn](https://www.linkedin.com/in/yoswadee-suanlert/)
