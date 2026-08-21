@@ -72,21 +72,6 @@ Throughout my career, I have worked across both **Data and Software Development*
 ### Currently Learning
 `Apache Spark` · `PySpark` · `Modern Data Engineering`
 
-**Languages & Database**
-
-Python • SQL • PL/SQL • Java
-
-**Data Engineering**
-
-ETL/ELT • Apache Airflow • AWS S3 • Amazon Redshift • Data Integration • Data Quality
-
-**Backend & Integration**
-
-REST API • System Analysis • Database Design • Git/GitHub
-
-**Currently Learning**
-
-PySpark • Apache Spark • Modern Data Engineering
 
 ## 📂 Featured Projects
 
